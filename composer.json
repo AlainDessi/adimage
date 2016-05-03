@@ -1,0 +1,17 @@
+{
+    "name": "alaindessi/adimage",
+    "description": "PHP Image Manipulation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alain Dessi",
+            "email": "alain.dessi@laposte.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": { "Adweb\\": "src/" }
+    }
+}
