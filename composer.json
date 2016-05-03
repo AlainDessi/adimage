@@ -9,8 +9,9 @@
             "email": "alain.dessi@laposte.net"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "require": {
+      "php": ">=5.5.0"
+    },
     "autoload": {
         "psr-4": { "Adweb\\": "src/" }
     }
